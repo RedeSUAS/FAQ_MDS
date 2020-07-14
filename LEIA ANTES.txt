@@ -1,0 +1,11 @@
+PASSOS PARA ACRESCENTAR NOVO TOPICO NA DOCUMENTAÇÃO
+
+1 - Coloque o arquivo Word(.docx) na pasta "_docx"
+
+2 - Execute o Script "Conversor_RST"
+
+3 - Siga os passos do script
+
+Com isto seu documento ja foi convertido para a pasta "_topicos"
+Verifique se ele se encontra nesta e insira o nome dele no arquivo "index.rst"
+
