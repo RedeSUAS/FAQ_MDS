@@ -8,4 +8,5 @@ PASSOS PARA ACRESCENTAR NOVO TOPICO NA DOCUMENTAÇÃO
 
 Com isto seu documento ja foi convertido para a pasta "_topicos"
 Verifique se ele se encontra nesta e insira o nome dele no arquivo "index.rst"
+.
 
