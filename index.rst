@@ -12,7 +12,6 @@ Welcome to Teste-MDS's documentation!
    _topicos/historico
    _topicos/duvidas
    _topicos/pagina_teste
-   _topicos/Exercicio3
    _topicos/FAQ2
 
 
