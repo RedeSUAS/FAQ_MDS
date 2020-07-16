@@ -1,0 +1,715 @@
+**Secretaria/Setor: 03. SNAS – SEC. NACIONAL DE ASSISTÊNCIA SOCIAL**
+
+**Programa/Projeto: 01. HELP DESK**
+
+**Assunto: 18. PRONTUÁRIO ELETRÔNICO DO SUAS**
+
+**Tópicos:**
+
+`01. Quem pode acessar o Prontuário? <#_Toc520454983>`__
+
+`02. Quais são os perfis de acesso ao Prontuário? <#_Toc520454984>`__
+
+`03. Quem tem mais de um perfil do RMA vinculado consegue acessar o
+Prontuário? <#_Toc520454985>`__
+
+`04. Como cadastrar novos usuários para acesso ao
+Prontuário? <#_Toc520454986>`__
+
+`05. Qual o endereço do sistema do Prontuário? <#_Toc520454987>`__
+
+`06. Acessei o sistema, porém não aparece a lista de todas as unidades
+do meu município. O que fazer? <#_Toc520454988>`__
+
+`07. Verifiquei que os dados pessoais da pessoa atendida estão
+incorretos. Como posso corrigir? <#_Toc520454989>`__
+
+`08. Não consigo preencher as informações no Prontuário, o que
+fazer? <#_Toc520454990>`__
+
+`09. Por que não estou visualizando a opção “Criança Feliz no SUAS” no
+Prontuário? <#_Toc520454991>`__
+
+`10. Não consigo registrar uma visita do Criança Feliz no SUAS. Por
+quê? <#_Toc520454992>`__
+
+`11. Como faço para montar uma equipe do Programa Criança Feliz no
+SUAS? <#_Toc520454993>`__
+
+`12. Não consigo incluir os técnicos que farão parte da equipe do
+Criança Feliz aqui no Prontuário. Como proceder? <#_Toc520454994>`__
+
+`13. Como faço para preencher a opção da Medida Socioeducativa sem o
+número do processo? <#_Toc520454995>`__
+
+`14. O técnico foi inserir a família no Prontuário Eletrônico, mas o
+sistema não reconheceu o NIS, impedindo de inserir a família no sistema.
+Como proceder? <#_Toc520454996>`__
+
+`15. O Visitador e o Supervisor precisam estar cadastrados no CRAS e na
+opção “Outras” na aba Rede Socioassistencial do
+CadSUAS? <#_Toc520454997>`__
+
+`16. Tentei registrar a visita na opção “Registrar Visita”, porém o
+sistema exibe a mensagem “É necessário estar vinculado a pelo menos uma
+equipe para poder registrar a visita”. O que fazer? <#_Toc520454998>`__
+
+`17. O CRAS não está sendo listado no Prontuário Eletrônico. Por
+quê? <#_Toc520454999>`__
+
+`18. No cadastro dos supervisores/visitadores da opção “Outras” – Rede
+Socioassistencial, qual CNPJ devo colocar? <#_Toc520455000>`__
+
+`19. No cadastro dos supervisores/visitadores da opção “Outras” – Rede
+Socioassistencial, qual data de implantação devo
+colocar? <#_Toc520455001>`__
+
+`20. Em que lugar do Prontuário Eletrônico devo registrar as gestantes
+que fazem parte do público do Programa Criança
+Feliz? <#_Toc520455002>`__
+
+`21. A seção Criança Feliz no SUAS é apenas para registrar as crianças
+de 0 a 6 anos? <#_Toc520455003>`__
+
+`22. Os dados apresentados nos relatórios não estão de acordo com as
+informações lançadas no sistema. Como proceder? <#_Toc520455004>`__
+
+`23. Quando inserimos a família para o acompanhamento familiar, não
+aparecem as opções de ações que devemos desenvolver com a família. Como
+proceder? <#_Toc520455005>`__
+
+`24. Quando precisamos desligar uma família no Prontuário Eletrônico,
+temos que ir ao bloco de Registro do acompanhamento familiar já que no
+item Atendimento não há a opção de desligamento? <#_Toc520455006>`__
+
+`25. Na aba “Acompanhamento” não conseguimos visualizar todas as
+famílias que já inserimos em acompanhamento, aparecem somente aquelas
+que já foram desligadas. O que fazer? <#_Toc520455007>`__
+
+`26. Os técnicos podem acessar o Prontuário Eletrônico com sua própria
+senha, ou é só o coordenador da unidade quem pode acessar? Como passo a
+senha para todos os membros da equipe técnica? <#_Toc520455008>`__
+
+`27. Existe um prazo para que o município inicie a utilização da atual
+versão do Prontuário Eletrônico? <#_Toc520455009>`__
+
+`28. Qual a legislação do Prontuário Eletrônico? <#_Toc520455010>`__
+
+`29. Existe alguma forma de backup dos prontuários? E, no caso do
+município ficar sem conseguir acessar o sistema do Ministério da
+Cidadania (Prontuário Eletrônico) por falta de internet, existe a
+possibilidade de alimentar o sistema? <#_Toc520455011>`__
+
+`30. Como faço para encaminhar uma pessoa para o Programa ACESSUAS
+trabalho? <#_Toc520455012>`__
+
+**Palavras-chave:** PRONTUARIO ELETRONICO SUAS
+
+1. Quem pode acessar o Prontuário?
+
+| **01. Quem pode acessar o Prontuário?
+  **
+| O administrador titular da Gestão (ou seu Adjunto), e os técnicos de
+  nível superior, desde que estejam devidamente cadastrados no CadSUAS
+  (estando vinculados ao quadro de Recursos Humanos da unidade) e
+  possuam o perfil correto no SAA para o acesso ao Prontuário
+  Eletrônico.
+
+**Palavras-chave:** PRONTUARIO ELETRONICO SUAS PERFIL PERFIS ACESSO
+
+2. Quais são os perfis de acesso ao Prontuário?
+
+| **02. Quais são os perfis de acesso ao Prontuário?
+  **
+| **rma.município**: Lista todas as unidades CRAS e CREAS do município:
+
+   • O profissional precisa estar vinculado aos Recursos Humanos do
+   Órgão Gestor no CadSUAS;
+
+   • Possuir cargo de Coordenador(a) ou de Técnico(a) de Nível Superior;
+   e
+
+   • Estar com mandato/exercício da função vigente (ou seja, sem data
+   fim de mandato ou com data fim de mandato maior que a data atual).
+
+**rma.cras:** Lista apenas a(s) unidade(s) CRAS a que o profissional
+esteja vinculado no município:
+
+   • O profissional precisa estar vinculado aos Recursos Humanos da(s)
+   unidade(s) no CadSUAS; e
+
+   • Estar com mandato/exercício da função vigente (ou seja, sem data
+   fim de mandato ou com data fim de mandato maior que a data atual).
+
+**rma.creas:** Lista a(s) unidade(s) CREAS a que o profissional esteja
+vinculado no município:
+
+   • O profissional precisa estar vinculado aos Recursos Humanos da(s)
+   unidade(s) no CadSUAS; e
+
+   • Estar com mandato/exercício da função vigente (ou seja, sem data
+   fim de mandato ou com data fim de mandato maior que a data atual).
+
+**rma.pcf**
+
+   • Perfil para ser atribuído para o supervisor e/ou visitador realizar
+   o registro das visitas do Programa Criança Feliz no prontuário;
+
+   • O profissional precisa estar vinculado ao Recursos Humanos do CRAS,
+   Órgão Gestor ou Outras no CadSUAS e fazer parte da equipe no
+   Prontuário Eletrônico (no Órgão Gestor do CadSUAS, deve-se estar com
+   o cargo de Coordenador(a) ou de Técnico(a) de Nível Superior);
+
+   • Estar com mandato/exercício da função vigente (ou seja, sem data
+   fim de mandato ou com data fim de mandato maior que a data atual).
+
+**rma.estado:** Permite acesso a Relatórios das unidades CRAS e CREAS no
+estado:
+
+   • O profissional precisa estar vinculado aos Recursos Humanos do
+   Órgão Gestor Estadual; e
+
+   • Estar com mandato/exercício da função vigente (ou seja, sem data
+   fim de mandato ou com data fim de mandato maior que a data atual).
+
+**rma.creas_regional:** Lista os CREAS Regionais a que o profissional
+esteja vinculado:
+
+   • O profissional precisa estar vinculado aos Recursos Humanos do
+   CREAS Regional; e
+
+   • Estar com mandato/exercício da função vigente (ou seja, sem data
+   fim mandato ou com data fim de mandato maior que a data atual).
+
+**Palavras-chave:** PRONTUARIO ELETRONICO SUAS PERFIL PERFIS
+
+3. Quem tem mais de um perfil do RMA vinculado consegue acessar o
+   Prontuário?
+
+| **03. Quem tem mais de um perfil do RMA vinculado consegue acessar o
+  Prontuário?
+  **
+| Não há problema que uma pessoa possua os perfis “\ **rma.cras**\ ” e
+  “\ **rma.creas**\ ”, mas, quando ela possuir um desses dois perfis
+  (“\ **rma.cras**\ ” ou “\ **rma.creas**\ ”) e também possuir o
+  “\ **rma.municipio**\ ”, o perfil que entrará em funcionamento será o
+  “\ **rma.cras**\ ” ou “\ **rma.creas**\ ”. Com isso, orientamos que os
+  profissionais do Órgão Gestor estejam vinculados *APENAS* ao perfil
+  “\ **rma.municipio**\ ”, que dará acesso a todas as unidades CRAS e
+  CREAS do município.
+| No caso dos Estados, se uma pessoa possuir
+  “\ **rma.creas_regional**\ ” e “\ **rma.estado**\ ”, o perfil que
+  entrará em funcionamento será o “\ **rma.creas_regional**\ ”.
+
+**Palavras-chave:** PRONTUARIO ELETRONICO SUAS CADASTRAR USUARIOS
+
+4. Como cadastrar novos usuários para acesso ao Prontuário?
+
+| **04. Como cadastrar novos usuários para acesso ao Prontuário?
+  **
+| O cadastro deve ser feito pelo administrador titular ou adjunto, no
+  SAA, e no momento de vincular/delegar o perfil deve-se escolher o
+  sistema “\ **rma**\ ”.
+
+**Palavras-chave:** PRONTUARIO ELETRONICO SUAS ENDERECO
+
+5. Qual o endereço do sistema do Prontuário?
+
+| **05. Qual o endereço do sistema do Prontuário?
+  **
+| O prontuário pode ser acessado no Blog da Rede Suas, em
+  http://blog.mds.gov.br/redesuas/. Ao acessar, abra o *menu* “Sistemas
+  de Informação” (localizado na parte superior da tela), clique em
+  “Prontuário Eletrônico” e clique no *link* que aparece em “Endereço”,
+  ou acesse diretamente pelo *link*:
+  https://aplicacoes.mds.gov.br/prontuario. Para acessar a área restrita
+  coloque o *login* (CPF) e a senha que utiliza nos demais sistemas da
+  Rede SUAS (conforme cadastro no SAA).
+
+**Palavras-chave:** PRONTUARIO ELETRONICO SUAS LISTA UNIDADES
+
+6. Acessei o sistema, porém não aparece a lista de todas as unidades do
+   meu município. O que fazer?
+
+| **06. Acessei o sistema, porém não aparece a lista de todas as
+  unidades do meu município. O que fazer?
+  **
+| A lista de unidades para os técnicos dos CRAS e CREAS será apresentada
+  de acordo com o vínculo de Recursos Humanos do profissional no
+  CadSUAS. Ou seja, somente serão listadas as unidades nas quais este
+  trabalhador esteja devidamente vinculado ao quadro de RH no CadSUAS.
+| Se o profissional pertencer à equipe do Órgão Gestor, esclarecemos que
+  para visualizar as informações, esse profissional deverá possuir
+  *APENAS* o perfil “rma.municipio” vinculado a ele no SAA.
+
+**Palavras-chave:** PRONTUARIO ELETRONICO SUAS CORRIGIR DADOS
+
+7. Verifiquei que os dados pessoais da pessoa atendida estão incorretos.
+   Como posso corrigir?
+
+| **07. Verifiquei que os dados pessoais da pessoa atendida estão
+  incorretos. Como posso corrigir?
+  **
+| Essas informações são do Cadastro Único, e apresentadas apenas para
+  consulta do profissional, não sendo possível alterá-las. Qualquer
+  atualização que seja necessária deve ser realizada no Cadastro Único.
+
+**Palavras-chave:** PRONTUARIO ELETRONICO SUAS PREENCHIMENTO
+
+8. Não consigo preencher as informações no Prontuário, o que fazer?
+
+| **08. Não consigo preencher as informações no Prontuário, o que fazer?
+  **
+| Para iniciar o preenchimento de qualquer uma das opções do Prontuário
+  é necessário que tenha sido realizado primeiro o preenchimento da
+  opção “Forma de Acesso”.
+| Caso possua perfil adequado para preenchimento do Prontuário, observe
+  se foi indicada a opção “Forma de Acesso”, informando como a família
+  teve o primeiro contato com a unidade.
+
+**Palavras-chave:** PRONTUARIO ELETRONICO SUAS CRIANCA FELIZ
+
+9. Por que não estou visualizando a opção “Criança Feliz no SUAS” no
+   Prontuário?
+
+| **09. Por que não estou visualizando a opção “Criança Feliz no SUAS”
+  no Prontuário?
+  **
+| Esta opção só está disponível para os municípios que aderiram ao Termo
+  de Aceite – Programa Primeira Infância no SUAS.
+
+**Palavras-chave:** PRONTUARIO ELETRONICO SUAS REGISTRAR VISITA CRIANCA
+FELIZ
+
+10. Não consigo registrar uma visita do Criança Feliz no SUAS. Por quê?
+
+| **10. Não consigo registrar uma visita do Criança Feliz no SUAS. Por
+  quê?
+  **
+| Para realizar o registro das visitas deve-se primeiro montar a equipe
+  escolhendo supervisor e visitador(es). Clique no ícone PCF (Programa
+  Criança Feliz), na aba superior, e depois em Montar Equipe. O Estado,
+  Município e Unidade aparecerão automaticamente. Ao acionar o
+  *combobox* equipe, é possível cadastrar uma nova equipe ou editar uma
+  equipe já registrada. Após a montagem da equipe do Programa Criança
+  Feliz no SUAS no município, para registrar a visita, deve-se escolher
+  a data em que a visita foi realizada; a pessoa visitada; informar o
+  nome do(a) visitador(a); e clicar em confirmar.
+
+**Palavras-chave:** PRONTUARIO ELETRONICO SUAS EQUIPE CRIANCA FELIZ
+
+11. Como faço para montar uma equipe do Programa Criança Feliz no SUAS?
+
+| **11. Como faço para montar uma equipe do Programa Criança Feliz no
+  SUAS?
+  **
+| Clique na aba PCF (Programa Criança Feliz) e depois em “\ **Montar
+  Equipe**\ ”. O Estado, Município e Unidade aparecerão automaticamente.
+  Ao acionar o *combobox* equipe, é possível cadastrar uma nova equipe
+  ou editar uma equipe que já tenha sido registrada.
+
+| Na tela seguinte, clique em um dos nomes dos profissionais que
+  aparecem na caixa “\ **Selecionar Supervisores**\ ”, arraste até a
+  caixa “\ **Supervisor**\ ” e solte. Na caixa “\ **Selecionar
+  Visitadores**\ ”, será apresentada uma relação de nomes dos
+  profissionais cadastrados no CadSUAS. Clique no(s) nome(s) do(s)
+  profissionais e arraste até a caixa “\ **Visitador**\ ” e solte.
+  Pronto, está montada a equipe desta unidade.
+| **OBS.:** Só serão listados os profissionais vinculados ao RH no
+  CadSUAS de acordo com seguintes cargos/função:
+
+-  **Supervisor:**
+
+Coordenador(a) no CRAS; ou
+
+Técnico(a) de Nível Superior no CRAS ou em OUTRAS.
+
+-  **Visitador:**
+
+Técnico(a) de Nível Superior no CRAS ou em OUTRAS;
+
+Técnico(a) de Nível Médio no CRAS ou em OUTRAS;
+
+Estagiário(a) (Escolaridade: Nível Superior incompleto) no CRAS ou em
+OUTRAS;
+
+Educador(a) Social no CRAS.
+
+**OBS.:** O exemplo poderá ser visualizado no documento: “Orientações
+para preenchimento do Prontuário Eletrônico do SUAS” que está disponível
+no Blog da Rede SUAS, em http://blog.mds.gov.br/redesuas/. Ao acessar,
+abra o *menu* “Documentos” (localizado na parte superior da tela),
+clique em “Manuais Técnicos” e por fim em “Prontuário Eletrônico do
+SUAS”.
+
+**Palavras-chave:** PRONTUARIO ELETRONICO SUAS TECNICOS CRIANCA FELIZ
+
+12. Não consigo incluir os técnicos que farão parte da equipe do Criança
+    Feliz aqui no Prontuário. Como proceder?
+
+| **12. Não consigo incluir os técnicos que farão parte da equipe do
+  Criança Feliz aqui no Prontuário. Como proceder?
+  **
+| Para aparecer na lista da Equipe no Prontuário Eletrônico é preciso
+  que a pessoa esteja cadastrada e vinculada a uma unidade **CRAS** ou
+  ao item “\ **Outras**\ ” na aba “Rede Socioassistencial” do CadSUAS.
+  Lembre-se de colocar a Sigla “PCF”, na aba identificação da opção
+  “Outras”, para que o sistema do Prontuário identifique que é uma
+  equipe do Programa Criança Feliz.
+| Na aba Rede Socioassistencial, opção “\ **CRAS**\ ”, com os seguintes
+  cargos/função:
+
+**Supervisor:** Coordenador(a) ou Técnico(a) de Nível Superior
+
+| **Visitador:** Técnico(a) de Nível Médio, Estagiário(a) (Escolaridade:
+  Nível Superior incompleto), Educador(a) Social ou Técnico(a) de Nível
+  Superior.
+| Na aba Rede Socioassistencial, opção “\ **Outras**\ ”, com o seguintes
+  cargos/função:
+
+**Supervisor:** Técnico(a) de Nível Superior
+
+| **Visitador:** Técnico(a) de Nível Médio, Estagiário(a) (Escolaridade:
+  Nível Superior incompleto), Técnico(a) de Nível Superior.
+| **Observação:** ao cadastrar o equipamento na opção “Outras”, na aba
+  **Identificação**, o campo sigla deve ser preenchido como PCF.
+
+**Palavras-chave:** PRONTUARIO ELETRONICO SUAS MEDIDA SOCIOEDUCATIVA
+
+13. Como faço para preencher a opção da Medida Socioeducativa sem o
+    número do processo?
+
+| **13. Como faço para preencher a opção da Medida Socioeducativa sem o
+  número do processo?
+  **
+| O número de processo é campo obrigatório. Sem essa informação não será
+  possível confirmar o registro da Medida Socioeducativa.
+| O Sistema permite salvar a informação somente para adolescentes dentro
+  da faixa etária de 12 a 21 anos.
+
+**Palavras-chave:** PRONTUARIO ELETRONICO SUAS FAMILIA NIS
+
+14. O técnico foi inserir a família no Prontuário Eletrônico, mas o
+    sistema não reconheceu o NIS, impedindo de inserir a família no
+    sistema. Como proceder?
+
+| **14. O técnico foi inserir a família no Prontuário Eletrônico, mas o
+  sistema não reconheceu o NIS, impedindo de inserir a família no
+  sistema. Como proceder?
+  **
+| É preciso verificar a data de inserção dessa família no Cadastro
+  Único, pois a ação desenvolvida, pelo município, de inserir a família
+  no cadastro único e sua visualização no Prontuário Eletrônico não
+  ocorre de forma automática, já que a interoperabilidade entre os
+  sistemas demora aproximadamente um mês para que seja possível
+  visualizá-la no Prontuário Eletrônico do SUAS. Assim, uma família
+  incluída no cadastro único em 17/05/2017 estará visível para o
+  Prontuário Eletrônico na data provável de 17/06/2017. A partir dessa
+  visualização, as informações sobre a família poderão ser inseridas
+  normalmente.
+
+**Palavras-chave:** PRONTUARIO ELETRONICO SUAS VISITADOR SUPERVISOR CRAS
+OUTRAS REDE SOCIOASSISTENCIAL CADSUAS
+
+15. O Visitador e o Supervisor precisam estar cadastrados no CRAS e na
+    opção “Outras” na aba Rede Socioassistencial do CadSUAS?
+
+| **15. O Visitador e o Supervisor precisam estar cadastrados no CRAS e
+  na opção “Outras” na aba Rede Socioassistencial do CadSUAS?
+  **\ Não. Se o profissional fizer parte da equipe do CRAS, então ele
+  deve estar vinculado APENAS ao Recursos Humanos do CRAS no CadSUAS.
+| Somente os profissionais contratados para realizar a visita e
+  supervisão do Programa Criança Feliz no SUAS *e que não fazem parte da
+  equipe do CRAS* (execução indireta) é que devem ser vinculados ao
+  Recursos Humanos da opção “Outras” – aba Rede Socioassistencial no
+  CadSUAS.
+| **Observação:** Lembre-se de colocar a Sigla PCF na aba identificação
+  da opção “Outras”, para que o sistema do Prontuário identifique que é
+  uma equipe do Programa Criança Feliz.
+
+**Palavras-chave:** PRONTUARIO ELETRONICO SUAS REGISTRAR VISITA
+
+16. Tentei registrar a visita na opção “Registrar Visita”, porém o
+    sistema exibe a mensagem “É necessário estar vinculado a pelo menos
+    uma equipe para poder registrar a visita”. O que fazer?
+
+| **16. Tentei registrar a visita na opção “Registrar Visita”, porém o
+  sistema exibe a mensagem “É necessário estar vinculado a pelo menos
+  uma equipe para poder registrar a visita”. O que fazer?
+  **
+| O registro das visitas no Prontuário Eletrônico só está liberado para
+  os supervisores ou visitadores cadastrados nas equipes.
+
+**Palavras-chave:** PRONTUARIO ELETRONICO SUAS CRAS
+
+17. O CRAS não está sendo listado no Prontuário Eletrônico. Por quê?
+
+| **17. O CRAS não está sendo listado no Prontuário Eletrônico. Por quê?
+  **
+| Para os profissionais do Órgão Gestor, o Prontuário Eletrônico
+  apresentará a relação de todos os CRAS ativos no CadSUAS para o
+  município;
+| Para os profissionais dos CRAS, serão listadas apenas as unidades
+  ativas nas quais este profissional esteja devidamente vinculado ao
+  quadro de Recursos Humanos no CadSUAS;
+| Se ainda assim a unidade não estiver listada, solicitamos que entre em
+  contato informando o Estado, Município e o ID/Nome da unidade para que
+  possamos verificar o motivo da não apresentação dela. Salientamos que
+  no Prontuário são apresentadas apenas as unidades ativas no CadSUAS.
+
+**Palavras-chave:** PRONTUARIO ELETRONICO SUAS CADASTRO SUPERVISORES
+VISITADORES OUTRAS REDE SOCIOASSISTENCIAL CNPJ
+
+18. No cadastro dos supervisores/visitadores da opção “Outras” – Rede
+    Socioassistencial, qual CNPJ devo colocar?
+
+**18. No cadastro dos supervisores/visitadores da opção “Outras” – Rede
+Socioassistencial, qual CNPJ devo colocar?**
+
+**
+**\ Na opção ”Outras” – na aba Rede Socioassistencial do CadSUAS, o
+campo CNPJ deve ser preenchido com o de quem está contratando os
+profissionais.
+
+**Palavras-chave:** PRONTUARIO ELETRONICO SUAS CADASTRO SUPERVISORES
+VISITADORES OUTRAS REDE SOCIOASSISTENCIAL DATA IMPLANTACAO
+
+19. No cadastro dos supervisores/visitadores da opção “Outras” – Rede
+    Socioassistencial, qual data de implantação devo colocar?
+
+**19. No cadastro dos supervisores/visitadores da opção “Outras” – Rede
+Socioassistencial, qual data de implantação devo colocar?**
+
+Na opção “Outras” – na aba Rede Socioassistencial do CadSUAS, o campo
+data da implantação deve ser preenchido com a data da primeira
+contratação realizada.
+
+**Palavras-chave:** PRONTUARIO ELETRONICO SUAS REGISTRAR GESTANTES
+CRIANCA FELIZ
+
+20. Em que lugar do Prontuário Eletrônico devo registrar as gestantes
+    que fazem parte do público do Programa Criança Feliz?
+
+**20. Em que lugar do Prontuário Eletrônico devo registrar as gestantes
+que fazem parte do público do Programa Criança Feliz?
+**\ No Prontuário Eletrônico as gestantes devem ser registradas na seção
+“Registro de Gestante na Família”, indicando inclusive o mês da
+gestação. Se esta gestante fizer parte do público do Criança Feliz,
+então após a inserção dela na seção já mencionada, deve-se também
+realizar sua inserção na seção Criança Feliz no SUAS.
+
+**Palavras-chave:** PRONTUARIO ELETRONICO SUAS REGISTRAR CRIANCAS FELIZ
+0 6 ANOS
+
+21. A seção Criança Feliz no SUAS é apenas para registrar as crianças de
+    0 a 6 anos?
+
+**21. A seção Criança Feliz no SUAS é apenas para registrar as crianças
+de 0 a 6 anos?
+**\ Não; esta seção é também para a inserção tanto das crianças quanto
+das gestantes que fazem parte do Programa.
+
+**Palavras-chave:** PRONTUARIO ELETRONICO SUAS DADOS RELATORIOS SISTEMA
+
+22. Os dados apresentados nos relatórios não estão de acordo com as
+    informações lançadas no sistema. Como proceder?
+
+| **22. Os dados apresentados nos relatórios não estão de acordo com as
+  informações lançadas no sistema. Como proceder?
+  **
+| Solicitamos que nos seja indicada em qual informação verificou-se a
+  inconsistência para que possamos realizar os devidos ajustes ou
+  orientações.
+
+**Palavras-chave:** PRONTUARIO ELETRONICO SUAS ACOMPANHAMENTO FAMILIAR
+
+23. Quando inserimos a família para o acompanhamento familiar, não
+    aparecem as opções de ações que devemos desenvolver com a família.
+    Como proceder?
+
+| **23. Quando inserimos a família para o acompanhamento familiar, não
+  aparecem as opções de ações que devemos desenvolver com a família.
+  Como proceder?
+  **
+| O Prontuário Eletrônico do SUAS, na versão atual, apesar dos avanços
+  em suas funcionalidades, ainda não atende a todo o conteúdo do
+  Prontuário Físico do SUAS. Todas as funcionalidades do Prontuário
+  Físico estão sendo gradativamente inseridas no Prontuário Eletrônico.
+  Nesse sentido, orientamos que, ao inserir a família em acompanhamento
+  familiar do PAIF ou PAEFI, o técnico informe no Prontuário Eletrônico
+  esta ação, e realize a sequência do acompanhamento no Prontuário
+  Físico e informe no Prontuário Eletrônico os registros possíveis de
+  atendimentos e encaminhamentos realizados ao longo do processo de
+  acompanhamento familiar.
+
+**Palavras-chave:** PRONTUARIO ELETRONICO SUAS DESLIGAR FAMILIA BLOCO
+REGISTRO ACOMPANHAMENTO FAMILIAR DESLIGAMENTO
+
+24. Quando precisamos desligar uma família no Prontuário Eletrônico,
+    temos que ir ao bloco de Registro do acompanhamento familiar já que
+    no item Atendimento não há a opção de desligamento?
+
+| **24. Quando precisamos desligar uma família no Prontuário Eletrônico,
+  temos que ir ao bloco de Registro do acompanhamento familiar já que no
+  item Atendimento não há a opção de desligamento?
+  **
+| É muito importante distinguir os conceitos de **Atendimento** e de
+  **Acompanhamento familiar**. O atendimento é um ato pontual, como a
+  inserção da família ou indivíduo em alguma ação do Serviço
+  Socioassistencial. São exemplos de atendimento: uma oficina com as
+  famílias, ações comunitárias, encaminhamentos, etc.
+| Já o Acompanhamento é destinado àquelas famílias que demandam uma ação
+  diferenciada devido ao agravamento das vulnerabilidades sociais. Elas
+  são inseridas em um conjunto de intervenções continuadas que compõe o
+  Plano de Acompanhamento Familiar. Este plano é construído e pactuado
+  caso a caso, com a participação da família e estabelece objetivos
+  definidos, mediações periódicas e a inserção em ações com o intuito de
+  superar, de modo efetivo, as situações vivenciadas.
+| Assim, apenas o Acompanhamento pressupõe desligamento e será
+  necessário informar o motivo do desligamento da família ou do
+  indivíduo. Mais informações sobre esses conteúdos poderão ser obtidos
+  no caderno de orientações técnicas do PAIF e no Manual de Instruções
+  para utilização do Prontuário SUAS (Físico) disponível no *site* do
+  Ministério da Cidadania: https://www.gov.br/cidadania/pt-br. Ao
+  acessar, clique na opção “Assistência Social” (localizada em
+  “Assuntos”, no canto esquerdo da tela) e em “Publicações”.
+
+**Palavras-chave:** PRONTUARIO ELETRONICO SUAS FAMILIA ACOMPANHAMENTO
+DESLIGADAS
+
+25. Na aba “Acompanhamento” não conseguimos visualizar todas as famílias
+    que já inserimos em acompanhamento, aparecem somente aquelas que já
+    foram desligadas. O que fazer?
+
+| **25. Na aba “Acompanhamento” não conseguimos visualizar todas as
+  famílias que já inserimos em acompanhamento, aparecem somente aquelas
+  que já foram desligadas. O que fazer?
+  **
+| O Prontuário Eletrônico do SUAS está gradativamente inserindo novas
+  funcionalidades para melhor atender a realidade local. Assim, foram
+  implementadas, recentemente, novas alterações na aba de relatórios.
+  Pedimos a gentileza de realizar nova consulta e nos informar se o
+  painel se encontra em desconformidade com a unidade e se existe ainda
+  necessidade de alterações. É sempre muito importante que nos envie a
+  imagem da tela do sistema (*print* *screen*) para termos um melhor
+  entendimento do problema relatado.
+
+**Palavras-chave:** PRONTUARIO ELETRONICO SUAS SENHA COORDENADOR EQUIPE
+TECNICA
+
+26. Os técnicos podem acessar o Prontuário Eletrônico com sua própria
+    senha, ou é só o coordenador da unidade quem pode acessar? Como
+    passo a senha para todos os membros da equipe técnica?
+
+| **26. Os técnicos podem acessar o Prontuário Eletrônico com sua
+  própria senha, ou é só o coordenador da unidade quem pode acessar?
+  Como passo a senha para todos os membros da equipe técnica?
+  **
+| O acesso ao Prontuário Eletrônico deverá ser liberado de acordo com a
+  necessidade das unidades, e tanto o coordenador quanto o técnico podem
+  ter acesso. A liberação deve ser realizada no SAA (dúvidas podem ser
+  esclarecidas no Blog da Rede Suas, em
+  http://blog.mds.gov.br/redesuas/. Ao acessar, abra o *menu* “Sistemas
+  de Informação” (localizado na parte superior da tela) e clique em
+  “SAA”, ou acesse diretamente pelo *link* -
+  http://blog.mds.gov.br/redesuas/?page_id=169).
+| Vale lembrar que, para o Prontuário Eletrônico, existem algumas
+  especificidades em relação ao perfil e ao cadastro do profissional na
+  relação de Recursos Humanos:
+| O perfil “\ **rma.município**\ ” lista todas as unidades CRAS e CREAS
+  do município:
+
+   • O profissional precisa estar vinculado aos Recursos Humanos do
+   Órgão Gestor no CadSUAS;
+
+   • Possuir cargo de Coordenador(a) ou de Técnico(a) de Nível Superior;
+   e
+
+   • Estar com mandato/exercício da função vigente (ou seja, sem data
+   fim de mandato ou com data fim de mandato maior que a data atual).
+
+O perfil **rma.cras** lista a(s) unidade(s) CRAS a que o profissional
+esteja vinculado no município:
+
+   • O profissional precisa estar vinculado ao Recursos Humanos da(s)
+   unidade(s) no CadSUAS; e
+
+   • Estar com mandato/exercício da função vigente (ou seja, sem data
+   fim de mandato ou com data fim de mandato maior que a data atual).
+
+O perfil **rma.creas** lista a(s) unidade(s) CREAS a que o profissional
+esteja vinculado no município:
+
+   • O profissional precisa estar vinculado aos Recursos Humanos da(s)
+   unidade(s) no CadSUAS; e
+
+   • Estar com mandato/exercício da função vigente (ou seja, sem data
+   fim de mandato ou com data fim de mandato maior que a data atual).
+
+**Palavras-chave:** PRONTUARIO ELETRONICO SUAS PRAZO
+
+27. Existe um prazo para que o município inicie a utilização da atual
+    versão do Prontuário Eletrônico?
+
+| **27. Existe um prazo para que o município inicie a utilização da
+  atual versão do Prontuário Eletrônico?
+  **
+| O Prontuário Eletrônico está inserindo gradativamente novas
+  funcionalidades para incorporar todos os serviços, programas e
+  projetos do SUAS. Nesse momento, é a ferramenta de registro simples,
+  rápido e fácil, mas que permite aos trabalhadores da política de
+  Assistência Social a capacidade de analisar, de forma sistematizada,
+  as informações sobre o território e a população atendida nas Unidades.
+| Para municípios que aderiram ao Programa Primeira Infância no SUAS -
+  Criança Feliz - o registro das informações no Prontuário Eletrônico é
+  obrigatório e imediato para fins de qualificar o acompanhamento do
+  Programa. Para os municípios que não aderiram ao Programa, não há
+  previsão temporal para o uso pelos profissionais, no entanto contamos
+  com a colaboração do município para usufruir dessa ferramenta, assim
+  que possível, contribuindo para o avanço na qualificação da Política
+  de Assistência Social.
+
+**Palavras-chave:** PRONTUARIO ELETRONICO SUAS LEGISLACAO
+
+28. Qual a legislação do Prontuário Eletrônico?
+
+| **28. Qual a legislação do Prontuário Eletrônico?
+  **
+| A legislação que dispõe do Prontuário Eletrônico é a *Portaria Nº 143,
+  de 8 de agosto de 2017* da Secretaria Nacional de Assistência Social/
+  Ministério da Cidadania, publicada no DOU dia 14 de agosto de 2017.
+
+**Palavras-chave:** PRONTUARIO ELETRONICO BACKUP
+
+29. Existe alguma forma de backup dos prontuários? E, no caso do
+    município ficar sem conseguir acessar o sistema do Ministério da
+    Cidadania (Prontuário Eletrônico) por falta de internet, existe a
+    possibilidade de alimentar o sistema?
+
+| **29. Existe alguma forma de backup dos prontuários? E, no caso do
+  município ficar sem conseguir acessar o sistema do Ministério da
+  Cidadania (Prontuário Eletrônico) por falta de internet, existe a
+  possibilidade de alimentar o sistema?
+  **
+| Em relação ao *backup*, o atual sistema permite a emissão do
+  Prontuário, em PDF, das informações preenchidas pela unidade
+  (localizada no rodapé da página). No entanto, modelo de trabalho
+  *offline* ainda não está disponível.
+
+**Palavras-chave:** PRONTUARIO ELETRONICO ACESSUAS TRABALHO ENCAMINHAR
+PESSOA
+
+30. Como faço para encaminhar uma pessoa para o Programa ACESSUAS
+trabalho?
+
+| **30. Como faço para encaminhar uma pessoa para o Programa ACESSUAS
+  trabalho?
+  **\ Clique na aba encaminhamentos realizados e depois preencha a data
+  da ação informando dia, mês e ano. Em seguida acione o combo pessoa e
+  escolha quem deve ser encaminhado (a) ao programa, e para finalizar
+  acione o combo encaminhamento, escolhendo a opção de número “55 > Para
+  o Programa ACESSUAS Trabalho”, em seguida clique para concluir o
+  encaminhamento no botão confirmar.
+| Pronto, a pessoa foi encaminhada ao Programa e poderá ser incluída no
+  Sistema de acompanhamento do ACESSUAS Trabalho que disponibiliza ações
+  dentro do Programa em sua localidade.
