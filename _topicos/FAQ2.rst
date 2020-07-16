@@ -1,4 +1,4 @@
-02 - Manual SAA
+Manual SAA
 ===============
 
 Secretaria/Setor: **03. SNAS - SEC. NACIONAL DE ASSISTÊNCIA SOCIAL**
