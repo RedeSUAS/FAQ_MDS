@@ -6,96 +6,75 @@ Perguntas frequentes
 **Prontuário Eletrônico SUAS – Acolhimento para Crianças e
 Adolescentes**
 
-`O Prontuário Eletrônico do SUAS – Acolhimento para Crianças e
+O Prontuário Eletrônico do SUAS – Acolhimento para Crianças e
 Adolescentes
-2 <#o-prontuário-eletrônico-do-suas-acolhimento-para-crianças-e-adolescentes>`__
 
-`1. Como acessar o Prontuário Eletrônico do SUAS – Acolhimento para
+1. Como acessar o Prontuário Eletrônico do SUAS – Acolhimento para
 Crianças e Adolescestes e quem pode acessá-lo?
-3 <#como-acessar-o-prontuário-eletrônico-do-suas-acolhimento-para-crianças-e-adolescestes-e-quem-pode-acessá-lo>`__
 
-`2. Quem pode utilizar o sistema do Prontuário Eletrônico SUAS -
+
+2. Quem pode utilizar o sistema do Prontuário Eletrônico SUAS -
 Acolhimento para Crianças e Adolescentes?
-3 <#quem-pode-utilizar-o-sistema-do-prontuário-eletrônico-suas---acolhimento-para-crianças-e-adolescentes>`__
 
-`3. Quais são os perfis para acesso no Prontuário Eletrônico SUAS -
+3. Quais são os perfis para acesso no Prontuário Eletrônico SUAS -
 Acolhimento para Crianças e Adolescentes?
-3 <#quais-são-os-perfis-para-acesso-no-prontuário-eletrônico-suas---acolhimento-para-crianças-e-adolescentes>`__
 
-`4. Quem deve preencher as informações no Prontuário Eletrônico SUAS -
+4. Quem deve preencher as informações no Prontuário Eletrônico SUAS -
 Acolhimento para Crianças e Adolescentes?
-4 <#quem-deve-preencher-as-informações-no-prontuário-eletrônico-suas---acolhimento-para-crianças-e-adolescentes>`__
 
-`5. Existe um Manual para o Prontuário Eletrônico do SUAS – Acolhimento
+5. Existe um Manual para o Prontuário Eletrônico do SUAS – Acolhimento
 para Crianças e Adolescentes? Como acessa-lo?
-5 <#existe-um-manual-para-o-prontuário-eletrônico-do-suas-acolhimento-para-crianças-e-adolescentes-como-acessa-lo>`__
 
-`6. Os(as) técnicos(as) podem acessar o Prontuário Eletrônico com sua
+6. Os(as) técnicos(as) podem acessar o Prontuário Eletrônico com sua
 própria senha, ou só o(a) coordenador(a) da unidade pode acessar? Como
 passo a senha para todos os membros da equipe técnica?
-5 <#osas-técnicosas-podem-acessar-o-prontuário-eletrônico-com-sua-própria-senha-ou-só-oa-coordenadora-da-unidade-pode-acessar-como-passo-a-senha-para-todos-os-membros-da-equipe-técnica>`__
 
-`7. O que é o SAA? 5 <#o-que-é-o-saa>`__
+7. O que é o SAA?
 
-`8. Não tenho acesso ao SAA, o que fazer?
-6 <#não-tenho-acesso-ao-saa-o-que-fazer>`__
+8. Não tenho acesso ao SAA, o que fazer?
 
-`9. Como cadastrar uma Unidade de Acolhimento?
-6 <#como-cadastrar-uma-unidade-de-acolhimento>`__
+9. Como cadastrar uma Unidade de Acolhimento?
 
-`10. Acessei o sistema, porém não aparece a lista de Unidades de
+10. Acessei o sistema, porém não aparece a lista de Unidades de
 Acolhimento do meu município. O que fazer?
-7 <#acessei-o-sistema-porém-não-aparece-a-lista-de-unidades-de-acolhimento-do-meu-município.-o-que-fazer>`__
 
-`11. Não tenho acesso ao Prontuário Eletrônico SUAS pois a Unidade em
+11. Não tenho acesso ao Prontuário Eletrônico SUAS pois a Unidade em
 que trabalho é constituída na modalidade consórcio. O que devo fazer?
-7 <#não-tenho-acesso-ao-prontuário-eletrônico-suas-pois-a-unidade-em-que-trabalho-é-constituída-na-modalidade-consórcio.-o-que-devo-fazer>`__
 
-`12. A Unidade de Acolhimento não está sendo listada. Por quê?
-8 <#a-unidade-de-acolhimento-não-está-sendo-listada.-por-quê>`__
+12. A Unidade de Acolhimento não está sendo listada. Por quê?
 
-`13. Como buscar uma Unidade de Acolhimento?
-8 <#como-buscar-uma-unidade-de-acolhimento>`__
+13. Como buscar uma Unidade de Acolhimento?
 
-`14. Como buscar uma pessoa? 8 <#como-buscar-uma-pessoa>`__
 
-`15. Como atualizar os dados de registro de uma pessoa?
-9 <#como-atualizar-os-dados-de-registro-de-uma-pessoa>`__
+14. Como buscar uma pessoa?
 
-`16. Como atualizar os dados do Registro de Acolhimento?
-9 <#como-atualizar-os-dados-do-registro-de-acolhimento>`__
+15. Como atualizar os dados de registro de uma pessoa?
 
-`17. Como cadastrar novos(as) acolhidos(as)?
-9 <#como-cadastrar-novosas-acolhidosas>`__
+16. Como atualizar os dados do Registro de Acolhimento?
 
-`18. Qual a periodicidade do preenchimento das informações no sistema?
-10 <#qual-a-periodicidade-do-preenchimento-das-informações-no-sistema>`__
+17. Como cadastrar novos(as) acolhidos(as)?
 
-`19. Não consigo Cadastrar uma pessoa no Prontuário Eletrônico SUAS -
+18. Qual a periodicidade do preenchimento das informações no sistema?
+
+19. Não consigo Cadastrar uma pessoa no Prontuário Eletrônico SUAS -
 Acolhimento para Crianças e Adolescentes, o que fazer?
-10 <#não-consigo-cadastrar-uma-pessoa-no-prontuário-eletrônico-suas---acolhimento-para-crianças-e-adolescentes-o-que-fazer>`__
 
-`20. Existe um prazo para que o município inicie a utilização da atual
+
+20. Existe um prazo para que o município inicie a utilização da atual
 versão do Prontuário Eletrônico SUAS - Acolhimento para Crianças e
 Adolescentes?
-10 <#existe-um-prazo-para-que-o-município-inicie-a-utilização-da-atual-versão-do-prontuário-eletrônico-suas---acolhimento-para-crianças-e-adolescentes>`__
 
-`21. Qual a legislação do Prontuário Eletrônico?
-10 <#qual-a-legislação-do-prontuário-eletrônico>`__
+21. Qual a legislação do Prontuário Eletrônico?
 
-`22. Onde posso acessar a versão física?
-11 <#onde-posso-acessar-a-versão-física>`__
+22. Onde posso acessar a versão física?
 
-`23. Haverá capacitações para utilização do Prontuário Eletrônico do
+23. Haverá capacitações para utilização do Prontuário Eletrônico do
 SUAS - Acolhimento para Crianças e Adolescentes?
-11 <#haverá-capacitações-para-utilização-do-prontuário-eletrônico-do-suas---acolhimento-para-crianças-e-adolescentes>`__
 
-`24. Há diferenças entre o Prontuário Eletrônico Simplificado,
+24. Há diferenças entre o Prontuário Eletrônico Simplificado,
 Prontuário Eletrônico e Prontuário Acolhimento?
-11 <#há-diferenças-entre-o-prontuário-eletrônico-simplificado-prontuário-eletrônico-e-prontuário-acolhimento>`__
 
-`25. Onde posso obter mais informações?
-11 <#onde-posso-obter-mais-informações>`__
+25. Onde posso obter mais informações?
 
 O Prontuário Eletrônico do SUAS – Acolhimento para Crianças e Adolescentes
 ==========================================================================
