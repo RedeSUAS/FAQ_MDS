@@ -1,4 +1,4 @@
-03 - Procedimento Operador
+Procedimento Operador
 ==========================
 
 Secretaria/Setor: **03. SNAS - SEC. NACIONAL DE ASSISTÊNCIA SOCIAL**
