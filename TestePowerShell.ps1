@@ -17,4 +17,5 @@ if (Test-Path $ldocx -PathType Leaf)
 else
 {
     "Arquivo não existe, tente novamente"
+    CMD /c PAUSE
 }
