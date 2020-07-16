@@ -9,7 +9,14 @@ Welcome to Teste-MDS's documentation!
 .. toctree::
    :maxdepth: 2
 
-   _topicos/paginas
+   _topicos/historico
+   _topicos/pagina_teste
+   _topicos/duvidas
+   _topicos/FAQ2
+   _topicos/FAQ3
+   _topicos/FAQ8 - CadSUAS Manual
+   _topicos/FAQ18 - Prontuario
+   _topicos/FAQ - Prontuario Eletronico
 
 
 Indices and tables
