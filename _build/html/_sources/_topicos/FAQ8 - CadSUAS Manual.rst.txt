@@ -62,9 +62,7 @@ SOCIOASSISTENCIAL
 **03. Como realizar o cadastro de uma unidade da Rede Socioassistencial
 no CADSUAS?**
 
-**
-**\ Ao pesquisar UF dentre as unidades que compõem a Rede
-Socioassistencial (CRAS, CREAS, CREAS Regional, Centro Pop, Unidade de
+Ao pesquisar UF dentre as unidades que compõem a Rede Socioassistencial (CRAS, CREAS, CREAS Regional, Centro Pop, Unidade de
 Acolhimento, Centro de Convivência, Centro-Dia e similares, ou Outras),
 basta clicar no botão “Adicionar” que fica na parte inferior esquerda
 para cadastrar a entidade.
@@ -81,19 +79,17 @@ preenchimento de cada aba, clique no botão “Avançar” / “Salvar”.
 
 ATENÇÃO! O campo e-mail é obrigatório e deverá ser institucional.
 
-- Na aba **Identificação**, todos os campos obrigatórios (os que tem
-asterisco ao lado) deverão ser preenchidos.
+- Na aba **Identificação**, todos os campos obrigatórios (os que tem asterisco ao lado) deverão ser preenchidos.
 
 - Clique em **“Avançar”** para continuar o preenchimento da próxima aba.
 
-- Na aba **Endereço**: preencha todos os campos obrigatórios e clique em
-**“Salvar”** para continuar ou **“Cancelar”** para desistir da inclusão.
+- Na aba **Endereço**: preencha todos os campos obrigatórios e clique em **“Salvar”** para continuar ou **“Cancelar”** para desistir da inclusão.
 
 Palavras-chave: CADSUAS MANUAL ACESSAR UNIDADE REDE SOCIOASSISTENCIAL
 
-| **04. Como acessar as informações de uma Unidade da Rede
-  Socioassistencial?
-  **\ Ao clicar na opção “Rede Socioassistencial” do *menu* principal o
+**04. Como acessar as informações de uma Unidade da Rede Socioassistencial?**
+
+  Ao clicar na opção “Rede Socioassistencial” do *menu* principal o
   sistema irá apresentar o sub *menu* com as opções CRAS, CREAS, CREAS
   Regional, Unidade de Acolhimento, Centro Pop e Centro-Dia e similares.
   Para efetuar a pesquisa clique no ente desejado. Na tela seguinte os
@@ -101,7 +97,7 @@ Palavras-chave: CADSUAS MANUAL ACESSAR UNIDADE REDE SOCIOASSISTENCIAL
   do usuário que acessou o sistema, sendo possível selecionar qualquer
   outra localidade. No item “Situação” selecione “Todos”, por fim clique
   no botão “Pesquisar”.
-| Não é necessário preencher as demais informações. Recomendamos
+  Não é necessário preencher as demais informações. Recomendamos
   selecionar apenas os itens obrigatórios, que são sinalizados com um
   asterisco (*). Se já existir o cadastro, o sistema irá retornar o
   resultado com todos os entes cadastrados para a UF e o Município
@@ -142,6 +138,4 @@ dados dessa pessoa serão listados na página.
 Para os cargos de Secretário (a) de Assistência Social e Conselheiro (a)
 Presidente estes campos são de preenchimento obrigatório;
 
-- Na aba **Recursos Humanos**: preencha todos os campos obrigatórios e
-clique em “Adicionar” para continuar ou “Cancelar” para desistir da
-inclusão.
+- Na aba **Recursos Humanos**: preencha todos os campos obrigatórios e clique em “Adicionar” para continuar ou “Cancelar” para desistir da inclusão.

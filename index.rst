@@ -7,7 +7,7 @@ Welcome to Teste-MDS's documentation!
 =====================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    _topicos/historico
    _topicos/pagina_teste

@@ -1,6 +1,7 @@
-===================================
-18 - Prontuario Eletronico do SUAS
-===================================
+===============
+18 - Prontuario
+===============
+
 
 **Secretaria/Setor: 03. SNAS – SEC. NACIONAL DE ASSISTÊNCIA SOCIAL**
 
@@ -109,7 +110,7 @@ trabalho? <#_Toc520455012>`__
 
 **Palavras-chave:** PRONTUARIO ELETRONICO SUAS
 
-1. Quem pode acessar o Prontuário?
+  1. Quem pode acessar o Prontuário?
 
 | **01. Quem pode acessar o Prontuário?**
 | O administrador titular da Gestão (ou seu Adjunto), e os técnicos de
@@ -118,82 +119,75 @@ trabalho? <#_Toc520455012>`__
   possuam o perfil correto no SAA para o acesso ao Prontuário
   Eletrônico.
 
-**Palavras-chave:** PRONTUARIO ELETRONICO SUAS PERFIL PERFIS ACESSO
+  **Palavras-chave:** PRONTUARIO ELETRONICO SUAS PERFIL PERFIS ACESSO
 
-2. Quais são os perfis de acesso ao Prontuário?
+  2. Quais são os perfis de acesso ao Prontuário?
 
-  **02. Quais são os perfis de acesso ao Prontuário?**
-  **rma.município**: Lista todas as unidades CRAS e CREAS do município:
+| **02. Quais são os perfis de acesso ao Prontuário?**
+| **rma.município**: Lista todas as unidades CRAS e CREAS do município:
 
-  • O profissional precisa estar vinculado aos Recursos Humanos do
-    Órgão Gestor no CadSUAS;
+   • O profissional precisa estar vinculado aos Recursos Humanos do Órgão Gestor no CadSUAS;
 
-  • Possuir cargo de Coordenador(a) ou de Técnico(a) de Nível Superior;
+   • Possuir cargo de Coordenador(a) ou de Técnico(a) de Nível Superior;
   
     e
 
-  • Estar com mandato/exercício da função vigente (ou seja, sem data
-    fim de mandato ou com data fim de mandato maior que a data atual).
+   • Estar com mandato/exercício da função vigente (ou seja, sem data fim de mandato ou com data fim de mandato maior que a data atual).
 
 **rma.cras:** Lista apenas a(s) unidade(s) CRAS a que o profissional
 esteja vinculado no município:
 
-  • O profissional precisa estar vinculado aos Recursos Humanos da(s)
-    unidade(s) no CadSUAS; 
+   • O profissional precisa estar vinculado aos Recursos Humanos da(s) unidade(s) no CadSUAS; 
+    
+    e
+
+   • Estar com mandato/exercício da função vigente (ou seja, sem data fim de mandato ou com data fim de mandato maior que a data atual).
+
+**rma.creas:** Lista a(s) unidade(s) CREAS a que o profissional esteja
+vinculado no município:
+
+   • O profissional precisa estar vinculado aos Recursos Humanos da(s) unidade(s) no CadSUAS; 
+   
+    e
+
+   • Estar com mandato/exercício da função vigente (ou seja, sem data fim de mandato ou com data fim de mandato maior que a data atual).
+
+**rma.pcf**
+
+   • Perfil para ser atribuído para o supervisor e/ou visitador realizar o registro das visitas do Programa Criança Feliz no prontuário;
+
+   • O profissional precisa estar vinculado ao Recursos Humanos do CRAS, Órgão Gestor ou Outras no CadSUAS e fazer parte da equipe no Prontuário Eletrônico (no Órgão Gestor do CadSUAS, deve-se estar com o cargo de Coordenador(a) ou de Técnico(a) de Nível Superior);
+
+   • Estar com mandato/exercício da função vigente (ou seja, sem data fim de mandato ou com data fim de mandato maior que a data atual).
+
+**rma.estado:** Permite acesso a Relatórios das unidades CRAS e CREAS no
+estado:
+
+  • O profissional precisa estar vinculado aos Recursos Humanos do
+    Órgão Gestor Estadual;
     
     e
 
   • Estar com mandato/exercício da função vigente (ou seja, sem data
     fim de mandato ou com data fim de mandato maior que a data atual).
 
-**rma.creas:** Lista a(s) unidade(s) CREAS a que o profissional esteja
-vinculado no município:
-
-  • O profissional precisa estar vinculado aos Recursos Humanos da(s)
-    unidade(s) no CadSUAS; e
-
-  • Estar com mandato/exercício da função vigente (ou seja, sem data
-    fim de mandato ou com data fim de mandato maior que a data atual).
-
-**rma.pcf**
-
-  • Perfil para ser atribuído para o supervisor e/ou visitador realizar
-    o registro das visitas do Programa Criança Feliz no prontuário;
-
-  • O profissional precisa estar vinculado ao Recursos Humanos do CRAS,
-    Órgão Gestor ou Outras no CadSUAS e fazer parte da equipe no
-    Prontuário Eletrônico (no Órgão Gestor do CadSUAS, deve-se estar com
-    o cargo de Coordenador(a) ou de Técnico(a) de Nível Superior);
-
-  • Estar com mandato/exercício da função vigente (ou seja, sem data
-   fim de mandato ou com data fim de mandato maior que a data atual).
-
-**rma.estado:** Permite acesso a Relatórios das unidades CRAS e CREAS no
-estado:
-
-  • O profissional precisa estar vinculado aos Recursos Humanos do
-   Órgão Gestor Estadual; e
-
-  • Estar com mandato/exercício da função vigente (ou seja, sem data
-   fim de mandato ou com data fim de mandato maior que a data atual).
-
 **rma.creas_regional:** Lista os CREAS Regionais a que o profissional
 esteja vinculado:
 
   • O profissional precisa estar vinculado aos Recursos Humanos do
-   CREAS Regional; e
+    CREAS Regional; 
+    
+  e
 
   • Estar com mandato/exercício da função vigente (ou seja, sem data
-   fim mandato ou com data fim de mandato maior que a data atual).
+    fim mandato ou com data fim de mandato maior que a data atual).
 
 **Palavras-chave:** PRONTUARIO ELETRONICO SUAS PERFIL PERFIS
 
 3. Quem tem mais de um perfil do RMA vinculado consegue acessar o
    Prontuário?
 
-| **03. Quem tem mais de um perfil do RMA vinculado consegue acessar o
-  Prontuário?
-  **
+| **03. Quem tem mais de um perfil do RMA vinculado consegue acessar o Prontuário?**
 | Não há problema que uma pessoa possua os perfis “\ **rma.cras**\ ” e
   “\ **rma.creas**\ ”, mas, quando ela possuir um desses dois perfis
   (“\ **rma.cras**\ ” ou “\ **rma.creas**\ ”) e também possuir o
@@ -210,8 +204,7 @@ esteja vinculado:
 
 4. Como cadastrar novos usuários para acesso ao Prontuário?
 
-| **04. Como cadastrar novos usuários para acesso ao Prontuário?
-  **
+| **04. Como cadastrar novos usuários para acesso ao Prontuário?**
 | O cadastro deve ser feito pelo administrador titular ou adjunto, no
   SAA, e no momento de vincular/delegar o perfil deve-se escolher o
   sistema “\ **rma**\ ”.
@@ -220,8 +213,7 @@ esteja vinculado:
 
 5. Qual o endereço do sistema do Prontuário?
 
-| **05. Qual o endereço do sistema do Prontuário?
-  **
+| **05. Qual o endereço do sistema do Prontuário?**
 | O prontuário pode ser acessado no Blog da Rede Suas, em
   http://blog.mds.gov.br/redesuas/. Ao acessar, abra o *menu* “Sistemas
   de Informação” (localizado na parte superior da tela), clique em
@@ -233,12 +225,10 @@ esteja vinculado:
 
 **Palavras-chave:** PRONTUARIO ELETRONICO SUAS LISTA UNIDADES
 
-6. Acessei o sistema, porém não aparece a lista de todas as unidades do
-   meu município. O que fazer?
+6.Acessei o sistema, porém não aparece a lista de todas as unidades do
+  meu município. O que fazer?
 
-| **06. Acessei o sistema, porém não aparece a lista de todas as
-  unidades do meu município. O que fazer?
-  **
+| **06. Acessei o sistema, porém não aparece a lista de todas as unidades do meu município. O que fazer?**
 | A lista de unidades para os técnicos dos CRAS e CREAS será apresentada
   de acordo com o vínculo de Recursos Humanos do profissional no
   CadSUAS. Ou seja, somente serão listadas as unidades nas quais este
@@ -249,22 +239,19 @@ esteja vinculado:
 
 **Palavras-chave:** PRONTUARIO ELETRONICO SUAS CORRIGIR DADOS
 
-7. Verifiquei que os dados pessoais da pessoa atendida estão incorretos.
-   Como posso corrigir?
+7.Verifiquei que os dados pessoais da pessoa atendida estão incorretos.
+  Como posso corrigir?
 
-| **07. Verifiquei que os dados pessoais da pessoa atendida estão
-  incorretos. Como posso corrigir?
-  **
+| **07. Verifiquei que os dados pessoais da pessoa atendida estão incorretos. Como posso corrigir?**
 | Essas informações são do Cadastro Único, e apresentadas apenas para
   consulta do profissional, não sendo possível alterá-las. Qualquer
   atualização que seja necessária deve ser realizada no Cadastro Único.
 
 **Palavras-chave:** PRONTUARIO ELETRONICO SUAS PREENCHIMENTO
 
-8. Não consigo preencher as informações no Prontuário, o que fazer?
+8.Não consigo preencher as informações no Prontuário, o que fazer?
 
-| **08. Não consigo preencher as informações no Prontuário, o que fazer?
-  **
+| **08. Não consigo preencher as informações no Prontuário, o que fazer?**
 | Para iniciar o preenchimento de qualquer uma das opções do Prontuário
   é necessário que tenha sido realizado primeiro o preenchimento da
   opção “Forma de Acesso”.
@@ -277,9 +264,7 @@ esteja vinculado:
 9. Por que não estou visualizando a opção “Criança Feliz no SUAS” no
    Prontuário?
 
-| **09. Por que não estou visualizando a opção “Criança Feliz no SUAS”
-  no Prontuário?
-  **
+| **09. Por que não estou visualizando a opção “Criança Feliz no SUAS” no Prontuário?**
 | Esta opção só está disponível para os municípios que aderiram ao Termo
   de Aceite – Programa Primeira Infância no SUAS.
 
